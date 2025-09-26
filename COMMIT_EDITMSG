@@ -1,0 +1,29 @@
+Add all projects that I forgot to add prior
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   Project PDFs/EAE127_P1_AUNG_EPHRAIM.html
+#	new file:   Project PDFs/EAE127_P1_AUNG_EPHRAIM.pdf
+#	new file:   Project PDFs/EAE127_P2_AUNG_EPHRAIM.html
+#	new file:   Project PDFs/EAE127_P2_AUNG_EPHRAIM.pdf
+#	new file:   Project PDFs/EAE127_P3_AUNG_EPHRAIM.html
+#	new file:   Project PDFs/EAE127_P3_AUNG_EPHRAIM.pdf
+#	new file:   Project PDFs/EAE127_P4_AUNG_EPHRAIM.html
+#	new file:   Project PDFs/EAE127_P4_AUNG_EPHRAIM.pdf
+#	new file:   Project PDFs/EAE127_P5_AUNG_EPHRAIM.html
+#	new file:   Project PDFs/EAE127_P5_AUNG_EPHRAIM.pdf
+#	deleted:    XFOIL6.99/xfoil.exe
+#	renamed:    EAE_127_P0_files/goe611.txt -> goe611.txt
+#	renamed:    EAE_127_P0_files/naca0012.dat -> naca0012.dat
+#	new file:   naca0015.txt
+#	new file:   naca0018.txt
+#	renamed:    EAE_127_P0_files/naca23012.txt -> naca23012.txt
+#	renamed:    EAE_127_P0_files/naca2412.txt -> naca2412.txt
+#	renamed:    EAE_127_P0_files/naca2415.dat -> naca2415.dat
+#	deleted:    pyxfoil.py
+#	modified:   pyxfoil_demo.py
+#
